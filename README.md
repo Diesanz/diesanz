@@ -8,7 +8,7 @@
 
 <h2>💻 Sobre mí</h2>
 <ul>
-  <li>🌱 Actualmente aprendiendo <b>JavaScript</b>, <b>FastAPI</b>, <b>Python</b>, <b>Java</b>, y <b>C</b></li>
+  <li>🌱 Actualmente aprendiendo <b>JavaScript</b>, <b>Python</b>, <b>Java</b>, <b>C</b>, <b>MySQL</b></li>
   <li>👯 Estudiante de Ingeniería Informática</li>
   <li>📫 Contáctame en: <a href="mailto:diego.sanzr2003@gmail.com">diego.sanzr2003@gmail.com</a></li>
 </ul>
