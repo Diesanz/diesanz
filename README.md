@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋, Soy <a href="https://github.com/Diesanz" target="_blank">Diego</a></h1>
 
-<!--
-**Diesanz/diesanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://instagram.com/_dieg_sanz">
+    <img src="https://img.shields.io/badge/Instagram-_dieg__sanz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h2>💻 Sobre mí</h2>
+<ul>
+  <li>🌱 Actualmente aprendiendo <b>JavaScript</b>, <b>FastAPI</b>, <b>Python</b>, <b>Java</b>, y <b>C</b></li>
+  <li>👯 Estudiante de Ingeniería Informática</li>
+  <li>📫 Contáctame en: <a href="mailto:diego.sanzr2003@gmail.com">diego.sanzr2003@gmail.com</a></li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📊 Estadísticas de GitHub</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diesanz&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+</p>
+
+<h2>🚀 Mis proyectos destacados</h2>
+<table>
+  <tr>
+    <!-- Aquí puedes añadir tus proyectos -->
+  </tr>
+</table>
+
+<h2>🌐 Encuéntrame en</h2>
+<p align="center">
+  <a href="https://instagram.com/_dieg_sanz" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
