@@ -29,10 +29,10 @@
   <tr>
     <td>
       <!-- Aquí puedes añadir tus proyectos -->
-      <a href="https://github.com/Diesanz/bash" target="_blank">Proyecto 1</a>
+      <a href="https://github.com/Diesanz/bash" target="_blank">Bash</a>
     </td>
     <td>
-      <a href="https://github.com/Diesanz/proyecto2" target="_blank">Proyecto 2</a>
+      <a href="https://github.com/Diesanz/GestionEmpresaWEB" target="_blank">Proyecto Full Stack</a>
     </td>
   </tr>
 </table>
