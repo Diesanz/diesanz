@@ -39,6 +39,9 @@
     <td>
       <a href="https://github.com/Diesanz/Cibersecurity" target="_blank">Proyectos Ciberseguridad</a>
     </td>
+    <td>
+      <a href="https://github.com/Diesanz/Generador_commits_ia" target="_blank">Commits de git con ia</a>
+    </td>
   </tr>
 </table>
 
