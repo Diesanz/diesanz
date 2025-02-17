@@ -33,6 +33,12 @@
     <td>
       <a href="https://github.com/Diesanz/GestionEmpresaWEB" target="_blank">Proyecto Full Stack</a>
     </td>
+    <td>
+      <a href="https://github.com/Diesanz/Packet_Tracer" target="_blank">Redes con Packet Tracer</a>
+    </td>
+    <td>
+      <a href="https://github.com/Diesanz/Cibersecurity" target="_blank">Proyectos Ciberseguridad</a>
+    </td>
   </tr>
 </table>
 
