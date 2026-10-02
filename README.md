@@ -22,7 +22,7 @@
   <img height="200" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Diesanz&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=300" alt="Lenguajes más usados" />
 </p>
 <p align="center">
-  <img height="100" src="https://github-profile-trophy.vercel.app/?username=Diesanz&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Diesanz&theme=radical&no-frame=true" alt="Trofeos de GitHub"/>
 </p>
 
 ---
