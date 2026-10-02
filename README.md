@@ -1,18 +1,17 @@
 <h1 align="center">¡Hola! 👋, Soy <a href="https://github.com/Diesanz" target="_blank">Diego</a></h1>
 
-<p align="center">
-  <a href="https://instagram.com/_dieg_sanz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-_dieg__sanz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+## 💻 Sobre mí
+- 🎓 Graduado en **Ingeniería Informática** y estudiante de Máster en la **Universidad de Valladolid**.
+- 🌱 Siempre aprendiendo. Últimamente ando trasteando con **procesamiento de datos** (Spark, Scala) e **infraestructura local/IoT** (Docker, Home Assistant, MQTT).
+- 🤖 En mi tiempo libre me gusta cacharrear con hardware, microcontroladores y **ROS 2**.
+- 📫 Contáctame en: [diego.sanzr2003@gmail.com](mailto:diego.sanzr2003@gmail.com)
 
 ---
-
-## 💻 Sobre mí
-- 🌱 Actualmente aprendiendo **JavaScript**, **Python**, **Java**, **C**, **MySQL**, **Bash**, **C#**  
-- 👨‍🎓 Estudiante de Ingeniería Informática  
-- 📫 Contáctame en: [diego.sanzr2003@gmail.com](mailto:diego.sanzr2003@gmail.com)  
-
+## 🛠️ Tecnologías con las que he trabajo
+* **Lenguajes:** Python, C, Scala, Bash, JavaScript
+* **Datos & IA:** Apache Spark, TensorFlow Lite
+* **Sistemas & IoT:** Linux, Docker, MQTT, Home Assistant
+* **Otros:** LaTeX, Git, ROS 2
 ---
 
 ## 📊 Estadísticas de GitHub
