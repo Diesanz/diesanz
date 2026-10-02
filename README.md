@@ -7,9 +7,9 @@
 - 📫 Contáctame en: [diego.sanzr2003@gmail.com](mailto:diego.sanzr2003@gmail.com)
 
 ---
-## 🛠️ Tecnologías con las que he trabajo
+## 🛠️ Tecnologías con las que he trabajado
 * **Lenguajes:** Python, C, Scala, Bash, JavaScript
-* **Datos & IA:** Apache Spark, TensorFlow Lite
+* **Datos & IA:** Apache Spark, TensorFlow Lite, PyTorch
 * **Sistemas & IoT:** Linux, Docker, MQTT, Home Assistant
 * **Otros:** LaTeX, Git, ROS 2
 ---
@@ -29,12 +29,13 @@
 
 ## 🚀 Mis proyectos destacados
 <p align="center">
-  <a href="https://github.com/Diesanz/bash" target="_blank">Bash</a> •
+  <a href="https://github.com/Diesanz/LargeLanguageModel" target="_blank">Modelos de Lenguaje (LLMs)</a> •
+  <a href="https://github.com/Diesanz/PruebasCargaWeb" target="_blank">Pruebas de Carga Web</a> •
+  <a href="https://github.com/Diesanz/Astro-ai-portafolio" target="_blank">IA en Astrofísica</a> •
+  <a href="https://github.com/Diesanz/Cibersecurity" target="_blank">Ciberseguridad</a> <br><br>
+  <a href="https://github.com/Diesanz/Black_Hat_Tools" target="_blank">Black Hat Tools</a> •
   <a href="https://github.com/Diesanz/GestionEmpresaWEB" target="_blank">Proyecto Full Stack</a> •
-  <a href="https://github.com/Diesanz/Packet_Tracer" target="_blank">Redes con Packet Tracer</a> •
-  <a href="https://github.com/Diesanz/Cibersecurity" target="_blank">Proyectos Ciberseguridad</a> •
-  <a href="https://github.com/Diesanz/Generador_commits_ia" target="_blank">Commits de Git con IA</a> •
-  <a href="https://github.com/Diesanz/Astro-ai-portafolio" target="_blank">Redes neuronales en astrofísica</a> •
+  <a href="https://github.com/Diesanz/Packet_Tracer" target="_blank">Redes (Packet Tracer)</a> •
   <a href="https://github.com/Diesanz/Unity" target="_blank">Juego en Unity</a>
 </p>
 
