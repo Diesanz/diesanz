@@ -3,7 +3,7 @@
 ## 💻 Sobre mí
 - 🎓 Graduado en **Ingeniería Informática** y estudiante de Máster en la **Universidad de Valladolid**.
 - 🌱 Siempre aprendiendo. Últimamente ando trasteando con **procesamiento de datos** (Spark, Scala) e **infraestructura local/IoT** (Docker, Home Assistant, MQTT).
-- 🤖 En mi tiempo libre me gusta cacharrear con hardware, microcontroladores y **ROS 2**.
+- 🤖 En mi tiempo libre me gusta cacharrear con hardware, microcontroladores.
 - 📫 Contáctame en: [diego.sanzr2003@gmail.com](mailto:diego.sanzr2003@gmail.com)
 
 ---
